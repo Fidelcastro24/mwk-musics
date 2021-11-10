@@ -24,4 +24,4 @@ A Telegram Bot to Play Audio in Voice Chats With Supports Live streaming from yo
 #### Disclaimer n Credits
 ###### This is Old Version of [subinps/musicplayer](https://github.com/subinps/MusicPlayer) with some Allara Chillara Maattam
 ###### Fork [Main Project](https://github.com/subinps/MusicPlayer) for Latest Update
-#######Thanks To Fidel Castro Marques 
+
